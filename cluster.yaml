@@ -1,0 +1,4 @@
+download:
+    h_vmem:    1G
+    tmem:   1G
+    h_rt: 72:00:00
